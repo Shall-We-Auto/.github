@@ -1,4 +1,4 @@
-## Automate everything in your life.
+Automate everything in your life.
 
 <!--
 
