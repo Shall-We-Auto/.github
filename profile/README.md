@@ -1,4 +1,4 @@
-Automate everything in your life.
+High-level automation
 
 <!--
 
